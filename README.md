@@ -26,9 +26,10 @@ This project was developed as part of an academic assignment to demonstrate unde
 - Event-driven programming
 
 ## 🚀 How to Run
-1. Open the project in Visual Studio
-2. Build the solution
-3. Run the application
+1.open sql data first at sql server
+2. Open the project in Visual Studio
+3. Build the solution
+4. Run the application
 
 ## 👨‍🎓 Author
 Tanmay Sarkar
